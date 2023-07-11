@@ -5,9 +5,6 @@
 - 👯 I am looking forward to collaborate on projects related to any of the above topics.
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=MrTejas&show_icons=true alt=MrTejas /> 
-</p>
-
 <p align="center">
   <a target="_blank" href="https://github.com/MrTejas">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrTejas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="Tejas' GitHub Stats" />

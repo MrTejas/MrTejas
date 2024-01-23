@@ -1,7 +1,7 @@
 
 # Hey there! 👋 I am Tejas Srivastava
 - 3rd Year Electronics and Communications undergraduate at IIIT Hyderabad.
-- 🔭 I am interested in *Coding Theory, Cryptography, Machine Learning and Data Compression*
+- 🔭 I am interested in *Coding Theory, Randomized Algorithms, Machine Learning and Data Compression*
 - 👯 I am looking forward to collaborate on projects related to any of the above topics.
 
 

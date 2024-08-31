@@ -1,7 +1,7 @@
 
 # Hey there! 👋 I am Tejas Srivastava
 - 4th Year Electronics and Communications undergraduate at IIIT Hyderabad.
-- 🔭 I am interested in *Locally Decodable Codes, Randomized Algorithms, Machine Learning and Data Compression*
+- 🔭 I am interested in *Computer Vision, Machine Learning, Reinforcement Learning and Signal Processing*
 - 👯 I am looking forward to collaborate on projects related to any of the above topics.
 
 

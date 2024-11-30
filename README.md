@@ -4,6 +4,8 @@
 - 🔭 I am interested in *Computer Vision, Machine Learning, Reinforcement Learning and Signal Processing*
 - 👯 I am looking forward to collaborate on projects related to any of the above topics.
 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=MrTejas alt=MrTejas/> </p>
+
 
 <p align="center">
   <a target="_blank" href="https://github.com/MrTejas">
